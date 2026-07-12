@@ -1,0 +1,12 @@
+{
+  "CivilWar#1.pdf": {
+    "titulo": "Civil War #1",
+    "descripcion": "Comic de prueba.",
+    "formato": "PDF",
+    "thumbnail": "_system/img/comics/civilwar1.jpg",
+    "etiquetas": [
+      "Marvel",
+      "Comic"
+    ]
+  }
+}
