@@ -1,1 +1,14 @@
-[]
+{
+  "The-Predator": {
+    "titulo": "The Predator Colection",
+    "descripcion": "Comic de The Predator.",
+    "formato": "PDF",
+    "thumbnail": "_system/img/comics/the-predator.jpg",
+    "etiquetas": [
+      "Predator",
+      "Comic"
+    ],
+    "plataforma": "Terabox",
+    "url": "https://terasharefile.com/s/1J78rh-iEqbdtUiR3-gSYSA"
+  }
+}
