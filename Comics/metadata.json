@@ -1,12 +1,26 @@
 {
   "CivilWar-1.pdf": {
     "titulo": "Civil War #1",
-    "descripcion": "Comic de prueba Comic de prueba Comic de prueba Comic de prueba Comic de prueba Comic de pruebaComic de pruebaComic de pruebaComic de prueba.",
+    "descripcion": "Primer número del evento Civil War.\nInicia el conflicto entre Iron Man y Capitán América.",
+    "subcategoria": "Marvel",
     "formato": "PDF",
     "thumbnail": "_system/img/comics/civilwar1.jpg",
     "etiquetas": [
+      "Comic",
       "Marvel",
-      "Comic"
+      "Superhéroes"
+    ]
+  },
+
+  "Batman-1.pdf": {
+    "titulo": "Batman Año Uno",
+    "descripcion": "Historia clásica de Batman.",
+    "subcategoria": "DC",
+    "formato": "PDF",
+    "thumbnail": "_system/img/comics/batman1.jpg",
+    "etiquetas": [
+      "Comic",
+      "DC"
     ]
   }
 }

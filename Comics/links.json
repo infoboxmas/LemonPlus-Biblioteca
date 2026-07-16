@@ -1,0 +1,29 @@
+{
+  "The-Predator": {
+    "titulo": "The Predator Colection",
+    "descripcion": "Comic de The Predator.",
+    "subcategoria": "predator",
+    "formato": "PDF",
+    "thumbnail": "_system/img/comics/the-predator.jpg",
+    "plataforma": "Terabox",
+    "url": "https://terasharefile.com/s/1J78rh-iEqbdtUiR3-gSYSA",
+    "etiquetas": [
+      "Predator",
+      "Comic"
+    ]
+  },
+
+   "PredatorCollection": {
+    "titulo": "los simpsons Collection",
+    "descripcion": "Colección completa de comics de los simpsons.",
+    "subcategoria": "simpsons",
+    "formato": "PDF",
+    "thumbnail": "_system/img/comics/simpsons.jpg",
+    "plataforma": "Terabox",
+    "url": "https://terabox.com/s/xxxxxxxx",
+    "etiquetas": [
+      "Comic",
+      "Simpsons"
+    ]
+  }
+}
