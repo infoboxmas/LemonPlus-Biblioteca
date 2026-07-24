@@ -1,0 +1,17 @@
+{
+  "ejemplo-1.pdf": {
+    "titulo": "Curso #1",
+    "descripcion": "Primer número del evento Civil War.\nInicia el conflicto entre Iron Man y Capitán América.\nComic Basado en la guerra civil de marvel.\nHecho por stan lee el creador de marvel.\nprueba si es scroll.\no on",
+    "subcategoria": "Photoshop",
+    "formato": "PDF",
+    "thumbnail": "_system/img/comics/civilwar1.jpg"
+  },
+
+  "ejemplo-2.pdf": {
+    "titulo": "Curso #2",
+    "descripcion": "Historia clásica de Batman.",
+    "subcategoria": "IA",
+    "formato": "PDF",
+    "thumbnail": "_system/img/comics/batman1.jpg"
+  }
+}

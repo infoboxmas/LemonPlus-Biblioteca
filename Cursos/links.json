@@ -1,0 +1,21 @@
+{
+  "The-Predator": {
+    "titulo": "Curso de Edicion",
+    "descripcion": "Comic de The Predator.",
+    "subcategoria": "Edicion",
+    "formato": "PDF",
+    "thumbnail": "_system/img/comics/the-predator.jpg",
+    "plataforma": "Terabox",
+    "url": "https://terasharefile.com/s/1J78rh-iEqbdtUiR3-gSYSA"
+  },
+
+   "PredatorCollection": {
+    "titulo": "Curso de illustrator",
+    "descripcion": "Colección completa de comics de los simpsons.",
+    "subcategoria": "Illustrator",
+    "formato": "PDF",
+    "thumbnail": "_system/img/comics/simpsons.jpg",
+    "plataforma": "Terabox",
+    "url": "https://terabox.com/s/xxxxxxxx"
+  }
+}
